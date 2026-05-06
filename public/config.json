@@ -5,7 +5,7 @@
   "site_tokens": [
     {
       "name": "master server node 1",
-      "backend_url": "wss://your-backend.example.com",
+      "backend_url": "wss://tz.475555.xyz",
       "token": "YOUR_TOKEN_HERE"
     }
   ]
